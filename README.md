@@ -8,6 +8,8 @@ On the client side, it constantly queries the internet for information, and if i
 
 The server side is a web server developed in python. The client side is a C program running on ESP8266 MCU (micro controll unit). ESP8266 microChip comes with a wifi module, which can access the resources on the internet and is a cheap solution for IoT application development.
 
+You can even develop the tweet crawler running on microChip directly, but this method requires your wlan is smooth enough for accessing some internet. ;-)
+
 ## New tweet speaker -- 监听新的tweet并广播
 
 这个项目可以监听你感兴趣的twitter主人的最新消息。然后通过语音播报出来。支持英文和中文。
