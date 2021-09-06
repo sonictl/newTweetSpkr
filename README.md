@@ -6,7 +6,7 @@ On the server side, a twitter message crawler is responsible for getting the lat
 
 On the client side, it constantly queries the internet for information, and if it is new, it will broadcast it by voice.
 
-The client side is a web server developed in python. The client side is a C program running on ESP8266 MCU (micro controll unit). ESP8266 microChip comes with a wifi module, which can access the resources on the internet and is a cheap solution for IoT application development.
+The server side is a web server developed in python. The client side is a C program running on ESP8266 MCU (micro controll unit). ESP8266 microChip comes with a wifi module, which can access the resources on the internet and is a cheap solution for IoT application development.
 
 ## New tweet speaker -- 监听新的tweet并广播
 
