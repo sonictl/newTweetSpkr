@@ -1,5 +1,5 @@
 # newTweetSpkr
-*New tweet speaker* -- listen to new tweets and broadcast them  This project listens to the latest news from the twitter owner you are interested in. Then broadcast it by voice. Support English and Chinese.
+**New tweet speaker** -- listen to new tweets and broadcast them  This project listens to the latest news from the twitter owner you are interested in. Then broadcast it by voice. Support English and Chinese.
 
 ### Basic function
 On the server side, a twitter message crawler is responsible for getting the latest tweets and then opening them to the internet via a web service.
